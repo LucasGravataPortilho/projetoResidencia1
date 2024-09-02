@@ -72,3 +72,20 @@ body {
     transition: all linear 160ms;
     cursor: pointer;
 }
+
+.navBar {
+    background-color: #46ACC2;
+    display: flex;
+    padding: 16px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.navBarItens {
+    display: flex;
+    margin-left: 38%;
+}
+
+.Navbar__Link {
+    padding-right: 30px;
+}
